@@ -28,3 +28,6 @@ galleryList.insertAdjacentHTML('beforeend', markupGallery(galleryItems));
    captionDelay: 250,
    captionPosition: 'bottom',
  });
+
+
+ 
